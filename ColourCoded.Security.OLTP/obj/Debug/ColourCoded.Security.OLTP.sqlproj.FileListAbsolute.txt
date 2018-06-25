@@ -1,0 +1,6 @@
+C:\SourceControl\ColourCoded.Security.API\ColourCoded.Security.OLTP\bin\Debug\ColourCoded.Security.OLTP.dacpac
+C:\SourceControl\ColourCoded.Security.API\ColourCoded.Security.OLTP\bin\Debug\ColourCoded.Security.OLTP.dll
+C:\SourceControl\ColourCoded.Security.API\ColourCoded.Security.OLTP\bin\Debug\ColourCoded.Security.OLTP.pdb
+C:\SourceControl\ColourCoded.Security.API\ColourCoded.Security.OLTP\obj\Debug\ColourCoded.Security.OLTP.dll
+C:\SourceControl\ColourCoded.Security.API\ColourCoded.Security.OLTP\obj\Debug\ColourCoded.Security.OLTP.pdb
+C:\SourceControl\ColourCoded.Security.API\ColourCoded.Security.OLTP\obj\Debug\ColourCoded.Security.OLTP.sqlprojAssemblyReference.cache
